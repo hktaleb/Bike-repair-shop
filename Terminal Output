@@ -1,0 +1,39 @@
+Terminal output from the main method:
+
+Name: Morgan Falk
+Phone Number: 0790781234
+Email: MF@gmail.com
+Bike Brand: BMX
+Bike Model: Crazy
+Bike Serial Number: ABC123
+
+
+Description: The brakes do not work.
+Date: 2026-05-03
+Repair Tasks: null
+Total Cost: 0.0
+State: NEWLY_CREATED
+Estimated Completion: 3h
+
+
+Description: The brakes do not work.
+Date: 2026-05-03
+Repair Tasks: null
+Total Cost: 0.0
+State: NEWLY_CREATED
+Estimated Completion: 3h
+
+
+Description: The brakes do not work.
+Date: 2026-05-03
+Repair Tasks: Search for the problem, Add brake wires
+Total Cost: 600.0
+State: READY_FOR_APPROVAL
+Estimated Completion: 3h
+
+Date: 2026-05-03
+Description: The brakes do not work.
+Repair Tasks: Search for the problem, Add brake wires
+Total Cost: 600.0
+State: ACCEPTED
+Estimated Completion: 3h
